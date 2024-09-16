@@ -20,3 +20,5 @@ python manage.py startapp todo
 8. Creating a Serializer. create a serializers.py file inside the app folder. A serializer converts data between different formats (like Python objects to JSON, and vice versa). This is important for APIs, which exchange data in formats like JSON
 
 9. Defining API Views in your views.py file
+
+10. Routing API Endpoints in the app url.py file
